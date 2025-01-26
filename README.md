@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thy-mechanic
+- 👋 Hi, I’m Aquib Ahsan
 - 👀 I’m interested in Machine Learning, AI, Data Science
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on pyhton projects 
