@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Aquib Ahsan!
 
 ## 📊 Data Analyst | 📈 SQL | 📊 Power BI | 📉 Python | 📂 Statistics
 
@@ -33,9 +33,9 @@ _For more, check out my repositories!_
 ---
 
 ## 📬 **Let's Connect!**
-💼 **LinkedIn**: [Your LinkedIn Profile](LinkedIn_Link_Here)  
+💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/aquib-ahsan/)  
 📂 **Portfolio**: [Your Portfolio (if available)](Portfolio_Link_Here)  
-📧 **Email**: [Your Email Here]  
+📧 **Email**: aquibahsan1997@gmail.com  
 
 I’m always open to collaboration and learning from fellow data enthusiasts. Feel free to reach out! 🚀  
 
