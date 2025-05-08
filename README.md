@@ -20,12 +20,12 @@ Here are some of my key data analysis projects:
 
 ### 📊 [Project Name 1]
 - 🔹 **Tech Used**: SQL, Power BI
-- 🔹 **Summary**: [Brief description of what the project does]
+- 🔹 **Summary**: 
 - 🔹 **[🔗 View Project](Project_Link_Here)**
 
 ### 📉 [Project Name 2]
 - 🔹 **Tech Used**: Python, Pandas, Matplotlib
-- 🔹 **Summary**: [Brief description of what the project does]
+- 🔹 **Summary**:
 - 🔹 **[🔗 View Project](Project_Link_Here)**
 
 _For more, check out my repositories!_
@@ -34,7 +34,6 @@ _For more, check out my repositories!_
 
 ## 📬 **Let's Connect!**
 💼 **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/aquib-ahsan/)  
-📂 **Portfolio**: [Your Portfolio (if available)](Portfolio_Link_Here)  
 📧 **Email**: aquibahsan1997@gmail.com  
 
 I’m always open to collaboration and learning from fellow data enthusiasts. Feel free to reach out! 🚀  
