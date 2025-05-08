@@ -2,7 +2,7 @@
 
 ## 📊 Data Analyst | 📈 SQL | 📊 Power BI | 📉 Python | 📂 Statistics | 📊 Excel
 
-I'm a passionate **Data Analyst** with a strong foundation in **SQL, Python, Power BI, and Tableau**. I enjoy turning raw data into meaningful insights and building impactful visualizations. Currently, I'm working on improving my skills in **Power Apps and Power Automate**.
+I'm a passionate **Data Analyst** with a strong foundation in **SQL, Python, Power BI, and Tableau**. I enjoy turning raw data into meaningful insights and building impactful visualizations thus helping in data driven business decision. Currently, I'm working on improving my skills in **Power Apps and Power Automate**.
 
 ---
 
