@@ -39,5 +39,4 @@ _For more, check out my repositories!_
 I’m always open to collaboration and learning from fellow data enthusiasts. Feel free to reach out! 🚀  
 
 ---
-
 🌟 **"Turning data into decisions, one query at a time!"** 🌟
